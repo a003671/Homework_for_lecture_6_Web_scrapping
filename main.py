@@ -1,6 +1,7 @@
 from requests import get
 from fake_headers import Headers
 from bs4 import BeautifulSoup as bs
+
 from pprint import pprint
 import json
 import re
